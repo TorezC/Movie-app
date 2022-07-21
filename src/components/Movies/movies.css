@@ -1,0 +1,17 @@
+.movie-container{
+    display: flex;
+    gap: 50px;
+}
+.movienames{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border-radius: 12px;
+    display: flex;
+}
+.movienames > p{
+    width: 100%;
+    align-self: center;
+    text-align: center;
+    color: white;
+}
